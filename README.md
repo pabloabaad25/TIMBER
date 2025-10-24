@@ -1,2 +1,3 @@
-# TIMBER
-<h1 align="center"> TIMBER </h1>
+# A first-level heading
+## A second-level heading
+### A third-level heading
