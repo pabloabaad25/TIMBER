@@ -1,2 +1,2 @@
 # TIMBER
-<em> # Su título aquí </em>
+<h1 align="center"> TIMBER </h1>
